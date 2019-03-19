@@ -7,17 +7,9 @@ body{
     margin: 0 auto;
     padding: 0 20px 20px 20px;
 }
-<!-- centralizado e Justificado-->
 
-h1{
-    text-align: center;
-    text-indent: 40px;
 
-}
-p{
-    text-align: justify;
-    text-indent: 30px;
-}
+
 
 .topo{
     height: content-box;
@@ -57,4 +49,15 @@ p{
     flex-direction: column;
     color: aliceblue;
 
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+
+}
+p{
+    text-align: justify;
+    text-indent: 20px;
+    font-size: 20px;
 }
