@@ -1,5 +1,5 @@
 html{
-    background-color: gray;
+    background-color: #FFFF00 ;
 }
 
 body{
@@ -39,10 +39,14 @@ body{
     height: content-box;
     margin: 45px 90px;
     padding: 3px 9px;
-    border-radius: 35px;
+    border-radius: 30px;
     border: 2px solid darkblue;
     background-color: #102861;
     display: flex;
     flex-direction: column;
     color: aliceblue;
+
+}
+h1{
+    text-align: center;
 }
