@@ -8,6 +8,14 @@ body{
     padding: 0 20px 20px 20px;
 }
 
+#main{
+    max-width: 1080px;
+    margin: 0 auto;
+    /*max-height: 300px;*/
+}
+img{
+    max-width: 100%;
+}
 
 
 
